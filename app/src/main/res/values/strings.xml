@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OCR Image Capture</string>
+    <string name="image_desc">Captured Image</string>
+    <string name="capture_button_text">Capture Image</string>
+    <string name="camera_permission_required">Camera permission required</string>
+</resources>
